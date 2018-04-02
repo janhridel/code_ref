@@ -1,7 +1,9 @@
-#Code sample
+Code sample
+===
+
 * PHP
 * JavaScript
-* TypeScrip
+* TypeScript
 * Laravel
 * Angular
 * ...
